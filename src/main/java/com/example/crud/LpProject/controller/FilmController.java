@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/filmes")
-public class FilmeController {
+public class FilmController {
 
     @GetMapping
     public ResponseEntity loadFilms(){
