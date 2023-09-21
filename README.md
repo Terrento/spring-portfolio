@@ -1,3 +1,3 @@
-Doing a serious Java Spring project
+20/09/2023 commit:
 
-This is the first of many hopefully
+Doing the basic framework for records and connecting the program to the SQL server
