@@ -1,3 +1,5 @@
-20/09/2023 commit:
+21/09/2023 commit:
 
-Doing the basic framework for records and connecting the program to the SQL server
+Actually implementing the server properly and having a get and post method.
+
+Still not sure if I'll use Thymeleaf or not.
