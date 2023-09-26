@@ -1,5 +1,6 @@
-21/09/2023 commit:
+26/09/2023 commit:
 
-Actually implementing the server properly and having a get and post method.
+Had to go on a trip so that's why the late commit.
 
-Still not sure if I'll use Thymeleaf or not.
+Also this last part took an embarassingly long time to do. 
+There are still some refining here and there to make but the CRUD foundations is finally ready.

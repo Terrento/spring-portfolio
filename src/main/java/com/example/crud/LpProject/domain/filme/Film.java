@@ -38,7 +38,7 @@ public class Film {
         this.genre = data.genre();
     }
 
-    public Film(DataUpdateFilm data){
+    public void updateFilm(DataUpdateFilm data){
         this.name = data.name();
         this.year_of_release = data.year_of_release();
         this.genre = data.genre();
